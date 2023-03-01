@@ -1,0 +1,10 @@
+Order Date,Customer Name,Segment,City,State,Postal Code,Region,Category,Sub-Category,Sales,Quantity,Profit
+11/8/2016,Claire Gute,Consumer,Henderson,Kentucky,42420,South,Furniture,Bookcases,261.96,2,41.9136
+11/8/2016,Claire Gute,Consumer,Henderson,Kentucky,42420,South,Furniture,Chairs,731.94,3,219.582
+6/12/2016,Darrin Van Huff,Corporate,Los Angeles,California,90036,West,Office Supplies,Labels,14.62,2,6.8714
+10/11/2015,Sean O'Donnell,Consumer,Fort Lauderdale,Florida,33311,South,Furniture,Tables,957.5775,5,-383.031
+10/11/2015,Sean O'Donnell,Consumer,Fort Lauderdale,Florida,33311,South,Office Supplies,Storage,22.368,2,2.5164
+6/9/2014,Brosina Hoffman,Consumer,,California,90032,West,Furniture,Furnishings,48.86,7,14.1694
+6/9/2014,,Consumer,Los Angeles,California,90032,West,Office Supplies,Art,7.28,4,
+,,Consumer,Los Angeles,California,90032,West,Technology,Phones,907.152,6,
+6/9/2014,Brosina Hoffman,Consumer,Los Angeles,California,90032,West,Office Supplies,Binders,18.504,3,5.7825

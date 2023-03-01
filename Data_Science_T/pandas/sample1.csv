@@ -1,0 +1,19 @@
+Order Date,Customer Name,Segment,City,State,Postal Code,Region,Category,Sub-Category,Sales,Quantity,Profit
+11/8/2016,Claire Gute,Consumer,Henderson,Kentucky,42420,South,Furniture,Bookcases,261.96,2,41.9136
+11/8/2016,Claire Gute,Consumer,Henderson,Kentucky,42420,South,Furniture,Chairs,731.94,3,219.582
+6/12/2016,Darrin Van Huff,Corporate,Los Angeles,California,90036,West,Office Supplies,Labels,14.62,2,6.8714
+10/11/2015,Sean O'Donnell,Consumer,Fort Lauderdale,Florida,33311,South,Furniture,Tables,957.5775,5,-383.031
+10/11/2015,Sean O'Donnell,Consumer,Fort Lauderdale,Florida,33311,South,Office Supplies,Storage,22.368,2,2.5164
+6/9/2014,Brosina Hoffman,Consumer,Los Angeles,California,90032,West,Furniture,Furnishings,48.86,7,14.1694
+6/9/2014,Brosina Hoffman,Consumer,Los Angeles,California,90032,West,Office Supplies,Art,7.28,4,1.9656
+6/9/2014,Brosina Hoffman,Consumer,Los Angeles,California,90032,West,Technology,Phones,907.152,6,90.7152
+6/9/2014,Brosina Hoffman,Consumer,Los Angeles,California,90032,West,Office Supplies,Binders,18.504,3,5.7825
+6/9/2014,Brosina Hoffman,Consumer,Los Angeles,California,90032,West,Office Supplies,Appliances,114.9,5,34.47
+6/9/2014,Brosina Hoffman,Consumer,Los Angeles,California,90032,West,Furniture,Tables,1706.184,9,85.3092
+6/9/2014,Brosina Hoffman,Consumer,Los Angeles,California,90032,West,Technology,Phones,911.424,4,68.3568
+4/15/2017,Andrew Allen,Consumer,Concord,North Carolina,28027,South,Office Supplies,Paper,15.552,3,5.4432
+12/5/2016,Irene Maddox,Consumer,Seattle,Washington,98103,West,Office Supplies,Binders,407.976,3,132.5922
+11/22/2015,Harold Pawlan,Home Office,Fort Worth,Texas,76106,Central,Office Supplies,Appliances,68.81,5,-123.858
+11/22/2015,Harold Pawlan,Home Office,Fort Worth,Texas,76106,Central,Office Supplies,Binders,2.544,3,-3.816
+11/11/2014,Pete Kriz,Consumer,Madison,Wisconsin,53711,Central,Office Supplies,Storage,665.88,6,13.3176
+5/13/2014,Alejandro Grove,Consumer,West Jordan,Utah,84084,West,Office Supplies,Storage,55.5,2,9.99
